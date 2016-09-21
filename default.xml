@@ -79,7 +79,6 @@
 <project  name="mmallow_hardware_realtek_bluetooth" path="hardware/realtek/bluetooth"   remote="JoJo1118"  revision="refs/heads/kvim"   />
 <project  name="mmallow_hardware_tvin" path="hardware/tvin"   remote="JoJo1118"  revision="refs/heads/kvim"   />
 <project  name="mmallow_hardware_wifi_broadcom_drivers_ap6xxx" path="hardware/wifi/broadcom/drivers/ap6xxx"   remote="JoJo1118"  revision="refs/heads/kvim"   />
-<project  name="mmallow_hardware_wifi_broadcom_drivers_usi" path="hardware/wifi/broadcom/drivers/usi"   remote="JoJo1118"  revision="refs/heads/kvim"   />
 <project  name="mmallow_hardware_wifi_mtk_drivers_mt7601" path="hardware/wifi/mtk/drivers/mt7601"   remote="JoJo1118"  revision="refs/heads/kvim"   />
 <project  name="mmallow_hardware_wifi_mtk_drivers_mt7603" path="hardware/wifi/mtk/drivers/mt7603"   remote="JoJo1118"  revision="refs/heads/kvim"   />
 <project  name="mmallow_hardware_wifi_qualcomm_drivers_qca9377" path="hardware/wifi/qualcomm/drivers/qca9377"   remote="JoJo1118"  revision="refs/heads/kvim"   />
