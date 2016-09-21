@@ -12,7 +12,9 @@
 
 <project  name="mmallow_bionic" path="bionic"   remote="JoJo1118"  revision="refs/heads/kvim"   />
 <project  name="mmallow_bootable_recovery" path="bootable/recovery"   remote="JoJo1118"  revision="refs/heads/kvim"   />
-<project  name="mmallow_build" path="build"   remote="JoJo1118"  revision="refs/heads/kvim"   />
+<project  name="mmallow_build" path="build"   remote="JoJo1118"  revision="refs/heads/kvim"   >
+<copyfile dest="Makefile" src="core/root.mk"/>
+</project>
 <project  name="linux" path="common"   remote="JoJo1118"  revision="refs/heads/kvim"   />
 <project  name="mmallow_device_khadas" path="device/khadas"   remote="JoJo1118"  revision="refs/heads/kvim"   />
 <project  name="mmallow_external_busybox" path="external/busybox"   remote="JoJo1118"  revision="refs/heads/kvim"   />
