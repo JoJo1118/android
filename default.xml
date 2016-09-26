@@ -320,6 +320,7 @@
 <project  name="platform/external/opencv"         path="external/opencv"      />
 <project  name="platform/external/liblzf"         path="external/liblzf"      />
 <project  name="platform/external/expat"          path="external/expat"      />
+<project  name="platform/external/libusb-compat"  path="external/libusb-compat"      />
 <project  name="platform/external/libutf"         path="external/libutf"      />
 <project  name="platform/external/dexmaker"       path="external/dexmaker"      />
 <project  name="platform/external/openfst"        path="external/openfst"      />
