@@ -392,7 +392,6 @@
 <project  name="platform/hardware/mediatek"       path="hardware/mediatek"      />
 <project  name="platform/hardware/intel/sensors"            path="hardware/intel/sensors"      />
 <project  name="platform/hardware/marvell/bt"     path="hardware/marvell/bt"      />
-<project  name="platform/hardware/wifi/qca9377"             path="hardware/wifi/qca9377"      />
 <project  name="platform/hardware/broadcom/wlan"            path="hardware/broadcom/wlan"      />
 <project  name="platform/hardware/qcom/camera"    path="hardware/qcom/camera"      />
 <project  name="platform/system/security"         path="system/security"      />
