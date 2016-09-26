@@ -104,7 +104,7 @@
 <project  name="mmallow_system_extras" path="system/extras"   remote="github"  revision="refs/heads/kvim"   />
 <project  name="mmallow_system_media" path="system/media"   remote="github"  revision="refs/heads/kvim"   />
 <project  name="mmallow_system_vold" path="system/vold"   remote="github"  revision="refs/heads/kvim"   />
-<project  name="uboot" path="uboot"   remote="github"  revision="refs/heads/kvim"   />
+<project  name="u-boot" path="uboot"   remote="github"  revision="refs/heads/kvim"   />
 <project  name="mmallow_vendor_amlogic_apps_AppInstaller" path="vendor/amlogic/apps/AppInstaller"   remote="github"  revision="refs/heads/kvim"   />
 <project  name="mmallow_vendor_amlogic_apps_DLNA" path="vendor/amlogic/apps/DLNA"   remote="github"  revision="refs/heads/kvim"   />
 <project  name="mmallow_vendor_amlogic_apps_DTVPlayer" path="vendor/amlogic/apps/DTVPlayer"   remote="github"  revision="refs/heads/kvim"   />
